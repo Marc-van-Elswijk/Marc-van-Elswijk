@@ -1,19 +1,16 @@
 ### Marc van Elswijk
+<!--
+Watching count
+-->
 <img src="https://komarev.com/ghpvc/?username=Marc-van-Elswijk&color=blue" alt="watching_count" />
+
+<!--
+Information about myself
+-->
 Hello there! My name is Marc van Elswijk and welcome on my 
 
 <!--
-**Marc-van-Elswijk/Marc-van-Elswijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My skills
 -->
+##My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,discord,discordjs,nodejs,git,gitlab,idea,linkedin,mongodb,dotnet,cs,python,java,php,mysql,blender,npm,phpstorm,pycharm,robloxstudio,visualstudio,vscode)](https://skillicons.dev)

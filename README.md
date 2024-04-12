@@ -16,4 +16,4 @@ Hello there! My name is Marc van Elswijk and welcome on my Github
 My skills
 -->
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,discord,discordjs,nodejs,git,gitlab,idea,linkedin,mongodb,dotnet,cs,python,java,php,mysql,blender,npm,phpstorm,pycharm,robloxstudio,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,discord,discordjs,nodejs,figma,github,idea,linkedin,mongodb,cs,python,java,php,mysql,blender,npm,phpstorm,pycharm,robloxstudio,visualstudio,vscode)](https://skillicons.dev)

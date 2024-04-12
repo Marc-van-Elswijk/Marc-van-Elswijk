@@ -1,4 +1,4 @@
-### Marc van Elswijk
+# Marc van Elswijk
 <!--
 Watching count
 -->
@@ -7,8 +7,11 @@ Watching count
 <!--
 Information about myself
 -->
-Hello there! My name is Marc van Elswijk and welcome on my 
+Hello there! My name is Marc van Elswijk and welcome on my Github
 
+<!--
+
+-->
 <!--
 My skills
 -->
